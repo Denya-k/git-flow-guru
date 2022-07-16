@@ -1,1 +1,2 @@
-Git flow rules!?
+Hello git flow,
+...and mercurial is worse than GIT
